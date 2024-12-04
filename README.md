@@ -1,2 +1,3 @@
 # Project-Epsilon-Module-7
-Kaggle Datasource used in this project: https://www.kaggle.com/datasets/asaniczka/amazon-products-dataset-2023-1-4m-products/data
+Kaggle Data Source used in this project: https://www.kaggle.com/datasets/asaniczka/amazon-products-dataset-2023-1-4m-products/data
+Data Source contains two files, amazon_categories.csv and amazon_products.csv. Due to the size of the files, they could not be uploaded to this repository.
