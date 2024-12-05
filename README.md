@@ -4,3 +4,4 @@ Data Source contains two files, amazon_categories.csv and amazon_products.csv. D
 
 
 Presentation Link: https://docs.google.com/presentation/d/1gpGkU4YqEIYNjkFUbPT1aB3e6hBisjKhEuJWEkLOoko/edit?usp=sharing
+The presentation shows our breakdown of the available data and our recommended suggestions for the e-commerce startup.
